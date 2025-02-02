@@ -1,5 +1,5 @@
 # simple_chat_app
-Simple chat app made for showing my learning with React and Fullstack development
+Simple chat app made for showing my learning level with React and Fullstack development
 
 ## Technologies used
 - Made with the MERN Stack: MongoDB, Express, React, Node.js
